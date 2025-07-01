@@ -11,4 +11,4 @@ Desenvolver um sistema ágil para gerenciar entregas em startups de logística, 
 ## Como Executar  
 1. Clone o repositório:  
    ```bash
-   git
+   git clone https://github.com/joaogabrielwz/sistema-gerenciamento-tarefas.git
